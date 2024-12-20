@@ -13,5 +13,6 @@ A simple WeChat conversation robot
 
 ```shell
 pnpm i
+npm run serve
 npm run start
 ```
